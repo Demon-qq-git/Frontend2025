@@ -1,3 +1,13 @@
-header{
-    background:#eeeeee;
+.gray-bkg{
+    background: #b5c712ee;
+}
+.logo{
+    width: 160px;
+}
+.intro-block{
+    display: flex;
+}
+.centered-block{
+    margin: 0 auto;
+    width: 1157px;
 }
